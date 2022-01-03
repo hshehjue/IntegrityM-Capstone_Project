@@ -1,2 +1,2 @@
-# IntegrityM-Capstone_Project
-this is the capstone project requested by IntegrityM
+# Capstone Project sponsored by IntegrityM
+
