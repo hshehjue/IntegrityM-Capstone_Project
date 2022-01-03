@@ -145,7 +145,7 @@
 * **Hyperparameters**
   - Random Grid Search
   - Best Hyperparameters:
-    <img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/EBM_param.png width=50% height=50%>
+  <img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/EBM_param.png width=50% height=50%>
 
 * **Running Time:** 2531.81 sec
 
@@ -159,7 +159,7 @@
 * **Hyperparameters**
   - Random Grid Search
   - Best Hyperparameters:
-    <img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/XGB_param.png width=50% height=50%>
+  <img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/XGB_param.png width=50% height=50%>
     
 * **Running Time:** 340 sec
 
