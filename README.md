@@ -179,6 +179,7 @@
 * **1) Global Feature Importance based on Shapley Values**
   - Features with the shapley values above 90th percentiles:
   <img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/XGB_importance.png width=50% height=50%>
+  - Top13 Features
     - 1. Tot_Srvcs
     - 2. Type_Internal Medicine
     - 3. Type_Family Practice
