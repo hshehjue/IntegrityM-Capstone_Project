@@ -129,17 +129,17 @@
 ## 4. Results, Conclusion, and/or Recommendations
 ### 1) LogisticRegression
 * **Below table include all continuous variable and their coefficients with significant p-values**
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Logistic_coeff.png width=50% height=50%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Logistic_coeff.png width=70% height=70%>
 
 * **AUC chart of the logistic regression model**
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Logistic_ROC.png width=50% height=50%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Logistic_ROC.png width=70% height=70%>
 
 ### 2) Decision Tree 
 * **Confusion matrix**
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/DT_confusion.png width=50% height=50%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/DT_confusion.png width=70% height=70%>
 
 * **Visualization of decision tree after pruning**
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/DT_tree.png width=50% height=50%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/DT_tree.png width=70% height=70%>
 
 ### 3) RandomForest
 * **Features selection on Train Set using Elastic Net Logistic GLM**
