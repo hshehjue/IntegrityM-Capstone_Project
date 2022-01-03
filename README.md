@@ -206,7 +206,7 @@
   - **Protected Group:**  Female Providers
   - **Referenced Group:**  Male Providers
 
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Disparate_Impact.png width=50% height=50%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Disparate_Impact.png width=40% height=40%>
 
 * **Adverse Impact Ratio (AIR):**
   - Threshold: 0.8
