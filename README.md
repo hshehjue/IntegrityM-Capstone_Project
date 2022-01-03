@@ -1,4 +1,5 @@
-# Project sponsored by IntegrityM
+# Classification ML Models For Detecting Healthcare Fradulent Activities
+## Links: [CASE](https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/CaseStudy_IntegrityM.pdf)|[PPT](https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Materials/FInal_PPT.pptx)|[CODES](https://github.com/hshehjue/IntegrityM-Capstone_Project/tree/main/Codes)
 ## Information 
 * **Project Type:** Capstone Project ([Requested Case](https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/CaseStudy_IntegrityM.pdf))
 * **Client:** [IntegrityM](https://integritym.com/)
