@@ -1,12 +1,12 @@
 # Project sponsored by IntegrityM
-### Information on the project
+## Information 
 * **Project Type:** Capstone Project 
 * **Client:** [IntegrityM](https://integritym.com/)
   - Department: IntegrityM Data Analytics Team
 * **Contributors:** SeungHeon Han, Yihang Zhao, Yuwen Luo
 * **Email:** seung225@gwu.edu (SeungHeon Han)
 
-### 1. Executive Summary
+## 1. Executive Summary
 * **Project Goal:**
   - Develop classification machine learning models which can effectively identify healthcare frauds, waste, and abuse of the information on patients
 * **Success Criteria:**
