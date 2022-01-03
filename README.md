@@ -1,5 +1,5 @@
 # ML Models For Detecting Healthcare Fradulent Activities
-## Links: [Case](https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/CaseStudy_IntegrityM.pdf)|[PPT](https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Materials/FInal_PPT.pptx)|[Codes](https://github.com/hshehjue/IntegrityM-Capstone_Project/tree/main/Codes)
+### Links: [Case](https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/CaseStudy_IntegrityM.pdf) | [PPT](https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Materials/FInal_PPT.pptx) | [Codes](https://github.com/hshehjue/IntegrityM-Capstone_Project/tree/main/Codes)
 ## Information 
 * **Project Type:** Capstone Project ([Requested Case](https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/CaseStudy_IntegrityM.pdf))
 * **Client:** [IntegrityM](https://integritym.com/)
