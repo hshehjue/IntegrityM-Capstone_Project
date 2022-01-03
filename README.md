@@ -85,20 +85,8 @@
       - Number of invalid unique NPI: 69,465
       - Number of valid unique NPI: 6,540
       - Number of valid unique NPI matching to frauds: 5,489
-      - **Fraud-related exclusion types from OIG acts**
-        - 1128a1: Conviction of program-related crimes
-        - 1128a2: Conviction relating to patient abuse
-        - 1128a3: Felony conviction relating to health care fraud
-        - 1128a4: Felony conviction relating to controlled substance
-        - 1128b1: Conviction relating to fraud
-        - 1128b2:  Conviction relating to obstruction of an investigation or audit
-        - 1128b6: Claims for excessive charges or unnecessary services and failure of certain organizations to furnish medically necessary services
-        - 1128b7: Fraud, kickbacks, and other prohibited activities
-        - 1128b4: License revocation or suspension
-        - 1128b5: Exclusion or suspension under federal or state health care program
-        - 1128b8: Entities controlled by a sanctioned individual
-        - 1128b15: Individuals Controlling a Sanctioned Entity
-        - 1128b16: Making false statements or misrepresentation of material facts
+      - **Fraud-related exclusion types from OIG acts** [Raod Map](https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Materials/Road%20Map.pdf)**
+
     - Labeling each instance of PartB (Fraud = 1/ Non-fraud = 0)
       - Fraud: 33,638
       - Non-fraud: 65,655,982
