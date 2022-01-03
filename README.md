@@ -1,6 +1,6 @@
 # Project sponsored by IntegrityM
 ## Information 
-* **Project Type:** Capstone Project [Requested Case](https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/CaseStudy_IntegrityM.pdf)
+* **Project Type:** Capstone Project ([Requested Case](https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/CaseStudy_IntegrityM.pdf))
 * **Client:** [IntegrityM](https://integritym.com/)
   - Department: IntegrityM Data Analytics Team
 * **Contributors:** SeungHeon Han, Yihang Zhao, Yuwen Luo
