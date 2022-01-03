@@ -129,56 +129,56 @@
 ## 4. Results, Conclusion, and/or Recommendations
 ### 1) LogisticRegression
 * **Below table include all continuous variable and their coefficients with significant p-values**
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Logistic_coeff.png width=70% height=70%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Logistic_coeff.png width=60% height=60%>
 
 * **AUC chart of the logistic regression model**
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Logistic_ROC.png width=70% height=70%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Logistic_ROC.png width=60% height=60%>
 
 ### 2) Decision Tree 
 * **Confusion matrix**
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/DT_confusion.png width=70% height=70%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/DT_confusion.png width=60% height=60%>
 
 * **Visualization of decision tree after pruning**
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/DT_tree.png width=70% height=70%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/DT_tree.png width=60% height=60%>
 
 ### 3) RandomForest
 * **Features selection on Train Set using Elastic Net Logistic GLM**
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/RF_importance.png width=50% height=50%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/RF_importance.png width=60% height=60%>
 
 * **Modeled Random Forest using selected features and list test set performance**
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/RF_performance.png width=50% height=50%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/RF_performance.png width=60% height=60%>
 
 ### 4) ExplainableBoostingMachine(EBM)
 * **Hyperparameters**
   - Random Grid Search
   - Best Hyperparameters:
-  <img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/EBM_param.png width=50% height=50%>
+  <img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/EBM_param.png width=60% height=60%>
 
 * **Running Time:** 2531.81 sec
 
 * **Average of the five fold evaluation:**
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/EBM_performance.png width=50% height=50%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/EBM_performance.png width=60% height=60%>
 
 * **Confusion Matrix with the best cut-off**
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/EBM_confusion.png width=50% height=50%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/EBM_confusion.png width=60% height=60%>
 
 ### 5) eXtremeGradientBoosting(XGBoost)
 * **Hyperparameters**
   - Random Grid Search
   - Best Hyperparameters:
-  <img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/XGB_param.png width=50% height=50%>
+  <img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/XGB_param.png width=60% height=60%>
     
 * **Running Time:** 340 sec
 
 * **Average of the five fold evaluation:**
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/XGB_performance.png width=50% height=50%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/XGB_performance.png width=60% height=60%>
 
 * **Confusion Matrix with the best cutoff**
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/XGB_confusion.png width=50% height=50%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/XGB_confusion.png width=60% height=60%>
 
 
 ### 6) Evaluation on Test Set
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Evaluation.png width=50% height=50%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Evaluation.png width=60% height=60%>
 
 * **Our recommending classification model:** *XGBoost model*
 
@@ -206,7 +206,7 @@
   - **Protected Group:**  Female Providers
   - **Referenced Group:**  Male Providers
 
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Disparate_Impact.png width=50% height=50%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Disparate_Impact.png width=60% height=60%>
 
 * **Adverse Impact Ratio (AIR):**
   - Threshold: 0.8
