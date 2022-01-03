@@ -188,7 +188,7 @@
 * **Our recommending classification model:** *XGBoost model*
 
 ### 7) Post-Processing
-* **Global Feature Importance based on Shapley Values**
+* **1) Global Feature Importance based on Shapley Values**
   - Features with the shapley values above 90th percentiles:
     <img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/XGB_importance.png width=50% height=50%>
     - 1. Tot_Srvcs
@@ -205,27 +205,22 @@
     - 12. Type_Nurse Practitioner
     - 13. Type_Proiatry
 
-* **Potential Disparate Impact on Gender**
+* **2) Potential Disparate Impact on Gender**
   - **Protected Group:**  Female Providers
   - **Referenced Group:**  Male Providers
 
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Disparate_Impact.png width=50% height=50%>
 
-
-
-
+* **Adverse Impact Ratio (AIR):**
+  - Threshold: 0.8
+  - Air for Male vs. Female: 1.075 (> 0.8)
+    - Female Proportion Accepted: 0.899
+    - Male Proportion Accepted: 0.836
+    - F1-Score: 0.4062
+    - Cut-off: 0.21
 
 ## 5. Potential Next Steps for future
 * Apply string matching method (like Fuzzywuzzy package in Python) to receive more fraud labels from LEIE Plus.
 * Check if the predicting fraud labels from XGBoost match the fraud labels in reality. This could help us to examine the predictability of the XGBoost model.
 
 
-
-
-
-
-
-
-
- 
- 
- 
