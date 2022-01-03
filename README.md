@@ -181,19 +181,19 @@
   <img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/XGB_importance.png width=68% height=68%>
   
   - Top13 Features
-    - 1. Tot_Srvcs
-    - 2. Type_Internal Medicine
-    - 3. Type_Family Practice
-    - 4. Avg_Mdcr_Alowd_Amt
-    - 5. Avg_Mdcr_Pymt_Amt
-    - 6. Type_Diagnostic Radiology
-    - 7. Tot_Bene_Day_Srvcs
-    - 8. Tot_Benes
-    - 9. Avg_Sbmtd_Charg
-    - 10. Avg_Mdcr_Stdzd_Amt
-    - 11. Type_Cardiology
-    - 12. Type_Nurse Practitioner
-    - 13. Type_Proiatry
+     1. Tot_Srvcs
+     2. Type_Internal Medicine
+     3. Type_Family Practice
+     4. Avg_Mdcr_Alowd_Amt
+     5. Avg_Mdcr_Pymt_Amt
+     6. Type_Diagnostic Radiology
+     7. Tot_Bene_Day_Srvcs
+     8. Tot_Benes
+     9. Avg_Sbmtd_Charg
+     10. Avg_Mdcr_Stdzd_Amt
+     11. Type_Cardiology
+     12. Type_Nurse Practitioner
+     13. Type_Proiatry
 
 * **2) Potential Disparate Impact on Gender**
   - **Protected Group:**  Female Providers
