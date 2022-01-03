@@ -185,7 +185,7 @@
 ### 7) Post-Processing
 * **1) Global Feature Importance based on Shapley Values**
   - Features with the shapley values above 90th percentiles:
-  <img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/XGB_importance.png width=68% height=68%>
+  <img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/XGB_importance.png width=75% height=75%>
   
   - **Top13 Features**
      1. Tot_Srvcs
@@ -206,7 +206,7 @@
   - **Protected Group:**  Female Providers
   - **Referenced Group:**  Male Providers
 
-<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Disparate_Impact.png width=60% height=60%>
+<img src=https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Images/Disparate_Impact.png width=50% height=50%>
 
 * **Adverse Impact Ratio (AIR):**
   - Threshold: 0.8
