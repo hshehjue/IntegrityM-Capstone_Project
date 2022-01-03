@@ -206,8 +206,10 @@
     - 13. Type_Proiatry
 
 * **Potential Disparate Impact on Gender**
-  - Protected Group:  Female Providers
-  - Referenced Group:  Male Providers
+  - **Protected Group:**  Female Providers
+  - **Referenced Group:**  Male Providers
+
+
 
 
 
