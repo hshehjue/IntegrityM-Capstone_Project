@@ -209,7 +209,7 @@
     - F1-Score: 0.4062
     - Cut-off: 0.21
 
-## 5. Potential Next Steps for future
+## 5. Potential Next Steps 
 * Apply string matching method (like Fuzzywuzzy package in Python) to receive more fraud labels from LEIE Plus.
 * Check if the predicting fraud labels from XGBoost match the fraud labels in reality. This could help us to examine the predictability of the XGBoost model.
 
