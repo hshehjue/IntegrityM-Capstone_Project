@@ -5,6 +5,7 @@
   - Department: IntegrityM Data Analytics Team
 * **Contributors:** SeungHeon Han, Yihang Zhao, Yuwen Luo
 * **Email:** seung225@gwu.edu (SeungHeon Han)
+* **Duration:** 9/6/2021 - 12/4/2021
 * **Main Task:** Build classification machine learning models
 * **Tools:**
   - Python v3.7.5 
