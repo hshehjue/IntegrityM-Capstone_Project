@@ -49,11 +49,19 @@
       - Source: IntegrityM
       - Size: 937*18
 * **Used Features (PartB)**
-    _  |  Train  |  Valid 
-  -----|---------|---------
-  Ratio | 70% | 30%
-   Col | 24 | 24
-   Row | 112146 | 48026
+    **Features Used** |  **Data Dictionary**
+  -----------------|------------------
+  Rndrng_NP | National Provider Identifier
+  Rndrng_Prvdr_Type | Type of the Provider
+  HCPCS_Cd | Healthcare Common Procedure Coding System (HCPCS) code
+  Place_Of_Srvc | either a facility (F) or non-facility (O)
+  Tot_Benes | Number of Medicare Part B fee-for-service beneficiaries utilizing the drug
+  Tot_Srvc | Number of services provided
+  Tot_Bene_Day_Srvcs | Number of Distinct Medicare Beneficiary/Per Day Services
+  Avg_Sbmtd_Chrg | Average Submitted Charge Amount
+  Avg_Mdcr_Pymt_Amt | Average Medicare Payment Amount
+  Avg_Mdcr_Alowd_Amt | Average Medicare Allowed Amount
+  Avg_Mdcr_Stdzd_Amt | Average Medicare Standardized Payment Amount
  
  
  
