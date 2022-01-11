@@ -60,7 +60,7 @@
 * **Used Features (PartB)**
     **Features Used** |  **Data Dictionary**
   -----------------|------------------
-  Rndrng_NP | National Provider Identifier
+  Rndrng_NPI | National Provider Identifier
   Rndrng_Prvdr_Type | Type of the Provider
   HCPCS_Cd | Healthcare Common Procedure Coding System (HCPCS) code
   Place_Of_Srvc | either a facility (F) or non-facility (O)
