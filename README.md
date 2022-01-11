@@ -2,7 +2,7 @@
 ### Links: [Case](https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/CaseStudy_IntegrityM.pdf) | [PPT](https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/Materials/FInal_PPT.pptx) | [Codes](https://github.com/hshehjue/IntegrityM-Capstone_Project/tree/main/Codes)
 ## Information 
 * **Project Type:** Capstone Project ([Requested Case](https://github.com/hshehjue/IntegrityM-Capstone_Project/blob/main/CaseStudy_IntegrityM.pdf))
-* **Client:** [IntegrityM](https://integritym.com/)
+* **Sponsor:** [IntegrityM](https://integritym.com/)
   - Department: IntegrityM Data Analytics Team
 * **Contributors:** SeungHeon Han, Yihang Zhao, Yuwen Luo
 * **Email:** seung225@gwu.edu (SeungHeon Han)
