@@ -18,7 +18,7 @@
   - Develop classification machine learning models which can effectively identify healthcare frauds, waste, and abuse of the information on patients
 * **Success Criteria:**
   - The predictive model can be replicated in other places without losing much accuracy
-  - The model can predict fraudulent patterns with high F1, AUC, ROC scores
+  - The model can predict fraudulent patterns with high F1, ROC-AUC scores
 * **ProjectPlan:**
   - Understand the business problem and goal with clients
   - Collect datasets, review documents
